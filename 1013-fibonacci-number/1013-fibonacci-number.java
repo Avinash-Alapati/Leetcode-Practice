@@ -3,8 +3,10 @@ class Solution {
         if (n <= 1){
             return n;
         }
+        int  last = findFib(n - 1);
+        int secLast = findFib(n - 2);
 
-        return findFib(n - 1) + findFib(n - 2);
+        return  last + secLast; 
     }
     public int fib(int n) {
        return findFib(n);
