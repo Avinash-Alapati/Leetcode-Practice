@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1791-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
