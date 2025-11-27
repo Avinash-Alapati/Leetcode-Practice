@@ -1,14 +1,18 @@
+// BruteForce - TC -> N log N + N , SC -> O(n)
 class Solution {
     public int removeDuplicates(int[] nums) {
         int n = nums.length;
+        Set<Integer> isUnique = new TreeSet<>();
 
-        int i = 0;
-        for (int j = 0; j < n; j++){
-            if (nums[j] != nums[i]){
-                nums[i + 1] = nums[j];
-                i++;
-            }
+        for (int i = 0; i < n; i++){
+            isUnique.add(nums[i]);
         }
-        return i+1;
+
+        int idx = 0;
+        for (int val : isUnique){
+            nums[idx] = val;
+            idx++;
+        }
+        return idx;
     }
 }
