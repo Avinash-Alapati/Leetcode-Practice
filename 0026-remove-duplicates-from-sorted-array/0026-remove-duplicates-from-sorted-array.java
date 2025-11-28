@@ -1,17 +1,17 @@
-// BruteForce - TC -> N log N + N , SC -> O(n)
+// Optimal - TC -> O(n)  = Better Than Optimal;
 class Solution {
     public int removeDuplicates(int[] nums) {
         int n = nums.length;
-        Set<Integer> isUnique = new TreeSet<>();
-
-        for (int i = 0; i < n; i++){
-            isUnique.add(nums[i]);
+        if (n <= 1){
+            return n;
         }
 
-        int idx = 0;
-        for (int val : isUnique){
-            nums[idx] = val;
-            idx++;
+        int idx = 1;
+        for (int i = 1; i < n; i++){
+            if (nums[i] != nums[i - 1]){
+                nums[idx] = nums[i];
+                idx++;
+            }
         }
         return idx;
     }
