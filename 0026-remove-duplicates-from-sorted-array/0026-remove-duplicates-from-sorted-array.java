@@ -1,4 +1,4 @@
-// Optimal - TC -> O(n)  = Better Than Optimal;
+// Optimal - TC -> O(n)  = Better Than BruteForce;
 class Solution {
     public int removeDuplicates(int[] nums) {
         int n = nums.length;
