@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1791-richest-customer-wealth) |
 ## Matrix
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -36,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
