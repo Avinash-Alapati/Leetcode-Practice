@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1791-richest-customer-wealth](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1791-richest-customer-wealth) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Matrix
 |  |
 | ------- |
@@ -61,8 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
