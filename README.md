@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1791-richest-customer-wealth](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1791-richest-customer-wealth) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Matrix
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
