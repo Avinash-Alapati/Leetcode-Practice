@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1791-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1013-fibonacci-number) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
