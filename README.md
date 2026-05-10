@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1791-richest-customer-wealth](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1791-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1013-fibonacci-number) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Recursion
 |  |
 | ------- |
