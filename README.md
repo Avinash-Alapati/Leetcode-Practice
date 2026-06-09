@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
