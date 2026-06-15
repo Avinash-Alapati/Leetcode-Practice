@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0704-binary-search) |
 | [1791-richest-customer-wealth](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1791-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
