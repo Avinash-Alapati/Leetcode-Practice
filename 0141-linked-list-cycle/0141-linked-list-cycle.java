@@ -12,6 +12,12 @@
 public class Solution {
     public boolean hasCycle(ListNode head) {
         
+        // return oneIteration(head);
+        return optimalSol(head);
+
+    }
+
+    public boolean oneIteration(ListNode head) {
         ListNode temp = head;
         HashSet set = new HashSet<>();
 
@@ -25,5 +31,21 @@ public class Solution {
         }
 
         return false;
+    }
+
+    public boolean optimalSol(ListNode head) {
+        if (head == null || head.next == null) return false;
+
+        ListNode slow = head;
+        ListNode fast = head.next;
+
+        while(slow != fast) {
+            if (fast == null || fast.next == null) return false;
+
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        return true;
     }
 }
