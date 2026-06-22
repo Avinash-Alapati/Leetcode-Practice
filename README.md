@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
