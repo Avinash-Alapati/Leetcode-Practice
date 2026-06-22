@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0242-valid-anagram) |
@@ -122,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
