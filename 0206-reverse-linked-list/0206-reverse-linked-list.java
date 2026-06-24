@@ -10,6 +10,12 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        // return iterativeApproach(head);
+        return stackApproach(head);
+
+    }
+
+    public ListNode iterativeApproach(ListNode head){
         ListNode prev = null;
         ListNode curr = head;
 
@@ -19,10 +25,36 @@ class Solution {
             curr.next = prev;
             prev = curr;
             curr = forward;
-            
+        
         }
         
 
         return prev;
+    }
+
+    public ListNode stackApproach(ListNode head){
+        if (head == null || head.next == null) {
+            return head;
+        }
+        
+        Stack<ListNode> stack = new Stack<>();
+
+        ListNode current = head;
+        while (current != null) {
+            stack.push(current);
+            current = current.next;
+        }
+
+        ListNode newHead = stack.pop();
+        current = newHead;
+
+        while (!stack.isEmpty()) {
+            current.next = stack.pop(); 
+            current = current.next;   
+        }
+
+        current.next = null;
+
+        return newHead;
     }
 }
