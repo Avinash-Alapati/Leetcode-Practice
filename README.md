@@ -149,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0965-univalued-binary-tree](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0965-univalued-binary-tree](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,4 +164,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0965-univalued-binary-tree](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0965-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
