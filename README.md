@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/1013-fibonacci-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Avinash-Alapati/Leetcode-Practice/tree/master/0268-missing-number) |
